@@ -1,0 +1,23 @@
+
+Helpful links:
+- https://members.iracing.com/jforum/posts/list/3192704.page
+- https://www.youtube.com/watch?v=qPpqC_B_Drk
+- https://docs.google.com/document/d/1ePSw3x5Y_OsHbx5Lh9GmW-hQv52TzwZxzm6AJCsIyLg/edit
+
+----
+
+- Changed monitor language to English
+- Didn't adjust anything else (left response time on "Fast" rather than "Faster")
+
+---
+
+- Nvidia Game Filters aren't working - they seem to be overlaid on top of the HDR effects, the result is a white hazy mess 
+
+---
+
+- Adjusted "Desktop colors" in NVidia Control Panel for the racing monitor
+    - 50% -> 60% "Vibrance"
+    
+--
+
+Made some adjustments to my ini files
