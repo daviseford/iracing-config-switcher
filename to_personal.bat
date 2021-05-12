@@ -7,6 +7,6 @@ copy /y configs\rendererDX11.ini "C:\Users\davis\Documents\iRacing\rendererDX11.
 copy /y configs\core.ini "C:\Users\davis\Documents\iRacing\core.ini"
 
 @REM Start the iRacing programs
-@REM START start_programs.bat
+START start_programs.bat
 
 exit
