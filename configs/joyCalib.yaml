@@ -1,0 +1,50 @@
+---
+CalibrationInfo:
+ DeviceList:
+ - DeviceName: 'FANATEC Podium Wheel Base DD1'
+   InstanceGUID: '{9A14E830-5A5A-11EB-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Combined Pedals'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 1
+     AxisName: 'Brake'
+     CalibMin: 22860
+     CalibCenter: 61815
+     CalibMax: 65535
+   - Axis: 2
+     AxisName: 'Accelerator'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 3
+     AxisName: 'Wheel Axis'
+     CalibMin: 0
+     CalibCenter: 32750
+     CalibMax: 65535
+ - DeviceName: 'Logitech G920 Driving Force Racing Wheel USB'
+   InstanceGUID: '{39806230-1589-11EB-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Wheel axis'
+     CalibMin: 0
+     CalibCenter: 32749
+     CalibMax: 65535
+   - Axis: 1
+     AxisName: 'Clutch'
+     CalibMin: 125
+     CalibCenter: 229
+     CalibMax: 255
+   - Axis: 2
+     AxisName: 'Brake'
+     CalibMin: 0
+     CalibCenter: 255
+     CalibMax: 255
+   - Axis: 3
+     AxisName: 'Accelerator'
+     CalibMin: 0
+     CalibCenter: 255
+     CalibMax: 255
+...
